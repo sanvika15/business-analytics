@@ -22,7 +22,7 @@ This repository contains data visualization dashboards for Netflix and Amazon Pr
 
 ## Data Sources  
 - **Netflix Data**: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-- **Amazon Prime Data**: [Kaggle Amazon Prime Dataset](https://www.kaggle.com/datasets/smeitoma/amazon-prime-movies-and-tv-shows)  
+- **Amazon Prime Data**: [Kaggle Amazon Prime Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)  
 
 ## Tools Used  
 - **Tableau** 🟣  
